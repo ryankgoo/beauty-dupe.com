@@ -35,3 +35,8 @@ cover:
   #  Text: "Suggest Changes" # edit text
    # appendFilePath: true # to append file path to Edit link
 ---
+### Skin smoothers everywhere are swearing by The Ordinary's $7 Lactic Acid 10% + HA.
+
+The Ordinary's Lactic Acid 10% + HA gently exfoliates for smoother, brighter skin. This lightweight serum contains 10% lactic acid to remove dead skin cells and reveal radiant skin. The formula also includes tasmanian pepperberry to reduce irritation and hyaluronic acid to provide hydration. This gentle acid treatment resurfaces skin to even tone and texture without redness or sensitivity.
+
+Quickly becoming a fan favorite dupe for Sunday Riley's Good Genes, The Ordinary's lactic acid serum provides the same exfoliating effects for a fraction of the price. Offering 10% lactic acid for polished, glowing skin, this $7 serum delivers identical results as the $85 Sunday Riley serum according to reviews. The Ordinary's serum reveals the same refined, smooth skin texture without irritation. For gentle exfoliation at an unbelievable price, this lactic acid serum is a must-try.

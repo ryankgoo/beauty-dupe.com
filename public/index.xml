@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ryan&#39;s Site</title>
+    <link>https://beauty-dupe.com/</link>
+    <description>Recent content on Ryan&#39;s Site</description>
+    <image>
+      <title>Ryan&#39;s Site</title>
+      <url>https://beauty-dupe.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://beauty-dupe.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Sep 2023 11:40:18 -0700</lastBuildDate><atom:link href="https://beauty-dupe.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>https://beauty-dupe.com/posts/third/</link>
+      <pubDate>Mon, 18 Sep 2023 11:40:18 -0700</pubDate>
+      
+      <guid>https://beauty-dupe.com/posts/third/</guid>
+      <description>hello </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://beauty-dupe.com/posts/first/</link>
+      <pubDate>Mon, 18 Sep 2023 10:46:02 -0700</pubDate>
+      
+      <guid>https://beauty-dupe.com/posts/first/</guid>
+      <description>test heading 1 </description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://beauty-dupe.com/posts/second/</link>
+      <pubDate>Mon, 18 Sep 2023 10:46:02 -0700</pubDate>
+      
+      <guid>https://beauty-dupe.com/posts/second/</guid>
+      <description>test heading 2 </description>
+    </item>
+    
+    <item>
+      <title>Revlon Candid Antioxidant Concealer Review</title>
+      <link>https://beauty-dupe.com/posts/photoready-candid-antioxidant/</link>
+      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
+      
+      <guid>https://beauty-dupe.com/posts/photoready-candid-antioxidant/</guid>
+      <description>Revlon&amp;rsquo;s Candid Antioxidant Concealer is the buzzworthy budget buy for brightening blemishes seamlessly The Revlon Candid Antioxidant Concealer provides crease-resistant, lightweight coverage with skincare benefits. This concealer is infused with antioxidant and anti-pollution ingredients to protect your skin while masking imperfections. The creamy formula blends seamlessly to conceal dark circles and disguise blemishes with a brightening, natural finish. Available in 18 inclusive shades, this concealer gives you flawless-looking skin that lasts all day.</description>
+    </item>
+    
+  </channel>
+</rss>
