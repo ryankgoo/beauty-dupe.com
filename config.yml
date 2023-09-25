@@ -1,5 +1,5 @@
 baseURL: "https://www.beauty-dupe.com/"
-title: Ryan's Site
+title: Beauty Dupe
 paginate: 5
 theme: PaperMod
 
@@ -137,3 +137,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+
+taxonomies:
+  category: categories
+  tag: tags
