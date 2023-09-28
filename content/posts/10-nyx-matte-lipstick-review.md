@@ -40,3 +40,5 @@ cover:
 The NYX Matte Lipstick glides on bold, creamy color that lasts all day without drying your lips. Available in a beautiful array of pigmented shades, these matte lipsticks provide full coverage color with a velvety smooth feel. The lightweight formula applies evenly and comfortably without feathering or smudging. Cruelty-free and affordably priced, NYX’s lipsticks allow you to achieve gorgeous lips on a budget.
 
 As an affordable alternative to Charlotte Tilbury’s iconic Pillow Talk lipstick, NYX’s Matte Lipstick in Euro Trash offers an uncannily similar MLBB shade. With its creaminess and pigmented color, the NYX lipstick is virtually indistinguishable from the designer version. Reviewers insist you get the same universally flattering nude-pink pout with the NYX dupe for just $15 rather than $34. If you love Charlotte Tilbury’s lipstick shade but not the splurge, the NYX Euro Trash lipstick is strikingly similar.
+
+asdjdjsasajkdas asjdsaj

@@ -38,3 +38,5 @@ cover:
 The NYX Control Freak Eyebrow Gel shapes and sets brows for a long-lasting, fluffy look. This clear eyebrow gel has a non-sticky formula that adheres to brow hairs without flaking or smudging. The precision wand coats each hair to tame unruly brows into place. This cruelty-free eyebrow gel keeps your arches lifted and groomed all day. With its strong hold and ease of use, it creates naturally full, feathered brows.
 
 As a dupe for Makeup By Mario’s Master Hold Brow Gel, NYX's eyebrow gel offers salon-quality hold for a fraction of the price. Providing the same strong, flexible hold as the leading brow gel, the affordable NYX product defines brows flawlessly. Reviewers are amazed that the budget-friendly NYX eyebrow gel performs just as well as Makeup By Mario’s for only $6 compared to $22. If you want brows that stay lifted and sculpted all day, this NYX dupe is a steal.
+
+hello world
