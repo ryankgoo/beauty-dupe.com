@@ -1,9 +1,10 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "Revlon Candid Antioxidant Concealer Review"
+date: 2023-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["reviews"]
+categories: "reviews"
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -18,10 +19,10 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -40,3 +41,11 @@ cover:
 The Revlon Candid Antioxidant Concealer provides crease-resistant, lightweight coverage with skincare benefits. This concealer is infused with antioxidant and anti-pollution ingredients to protect your skin while masking imperfections. The creamy formula blends seamlessly to conceal dark circles and disguise blemishes with a brightening, natural finish. Available in 18 inclusive shades, this concealer gives you flawless-looking skin that lasts all day.
 
 As an affordable alternative to NARS’ beloved Radiant Creamy Concealer, the Revlon Candid Concealer offers strikingly similar performance. Providing the same flexible coverage and brightening effects, this budget-friendly concealer measures up to the prestige brand’s results. The Revlon dupe leaves skin looking just as smoothed and illuminated as NARS’ concealer for only $9 rather than $32. If you love the NARS concealer but not the price tag, the Revlon Candid Concealer is a must-try.
+
+## Where to buy
+
+## Key ingredients
+
+## About the brand
+
+## More from brand

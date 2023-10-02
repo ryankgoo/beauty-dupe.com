@@ -1,9 +1,10 @@
 ---
 title: "Control Freak Eyebrow Gel Review"
-date: 2020-09-15T11:30:03+00:00
+date: 2023-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["reviews"]
+categories: "reviews"
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,17 +12,17 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Shape brows without the salon price tag"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -39,4 +40,10 @@ The NYX Control Freak Eyebrow Gel shapes and sets brows for a long-lasting, fluf
 
 As a dupe for Makeup By Mario’s Master Hold Brow Gel, NYX's eyebrow gel offers salon-quality hold for a fraction of the price. Providing the same strong, flexible hold as the leading brow gel, the affordable NYX product defines brows flawlessly. Reviewers are amazed that the budget-friendly NYX eyebrow gel performs just as well as Makeup By Mario’s for only $6 compared to $22. If you want brows that stay lifted and sculpted all day, this NYX dupe is a steal.
 
-hello world
+## Where to buy
+
+## Key ingredients
+
+## About the brand
+
+## More from brand

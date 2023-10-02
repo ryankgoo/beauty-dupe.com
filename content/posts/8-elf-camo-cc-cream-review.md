@@ -1,9 +1,10 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "E.L.F.'s Camo CC Cream Review"
+date: 2023-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["reviews"]
+categories: "reviews"
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,17 +12,17 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "natural-looking full coverage cream by E.L.F. Cosmetics"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -40,3 +41,11 @@ cover:
 The e.l.f. Camo CC Cream provides natural-looking medium-to-full coverage with skincare benefits. This color-correcting foundation smooths imperfections while protecting skin with SPF 30. The breathable, hydrating formula blends seamlessly to disguise redness and discoloration for a flawless complexion. Available in over 20 inclusive shades, this cream adapts to your unique undertone. The cruelty-free foundation nourishes skin while perfecting your complexion.
 
 Quickly gaining popularity as a dupe for IT Cosmetics’ iconic CC+ Cream, the e.l.f. Camo CC Cream offers similar seamless coverage for less. Providing the same adaptable medium-to-full coverage and glowy finish, the $14 e.l.f. cream compares impressively to the $40 IT Cosmetics original. Reviewers insist the budget-friendly e.l.f. foundation provides indistinguishable complexion perfection for over $25 less. If you love a natural-looking full coverage base, this wallet-friendly cream is a must.
+
+## Where to buy
+
+## Key ingredients
+
+## About the brand
+
+## More from brand

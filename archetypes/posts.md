@@ -3,7 +3,8 @@ title: "My 1st post"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["reviews"]
+categories: "reviews"
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -18,10 +19,10 @@ disableShare: false
 disableHLJS: false  
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -32,3 +33,11 @@ cover:
     hidden: true # only hide on current single page
 
 ---
+
+## Where to buy
+
+## Key ingredients
+
+## About the brand
+
+## More from brand

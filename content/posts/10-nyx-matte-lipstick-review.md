@@ -1,9 +1,10 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "NYX Matte Lipstick Review"
+date: 2023-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["reviews"]
+categories: "reviews"
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +12,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Strikingly similar to Charlotte Tilbury's Pillow Talk"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -21,7 +22,7 @@ searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -41,4 +42,11 @@ The NYX Matte Lipstick glides on bold, creamy color that lasts all day without d
 
 As an affordable alternative to Charlotte Tilbury’s iconic Pillow Talk lipstick, NYX’s Matte Lipstick in Euro Trash offers an uncannily similar MLBB shade. With its creaminess and pigmented color, the NYX lipstick is virtually indistinguishable from the designer version. Reviewers insist you get the same universally flattering nude-pink pout with the NYX dupe for just $15 rather than $34. If you love Charlotte Tilbury’s lipstick shade but not the splurge, the NYX Euro Trash lipstick is strikingly similar.
 
-asdjdjsasajkdas asjdsaj
+
+## Where to buy
+
+## Key ingredients
+
+## About the brand
+
+## More from brand
