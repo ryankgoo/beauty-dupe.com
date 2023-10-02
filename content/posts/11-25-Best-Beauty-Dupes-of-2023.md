@@ -79,6 +79,36 @@ The Master Hold Brow Gel is known for keeping brows perfectly groomed all day. T
 
 The NYX Control Freak Eyebrow Gel provides the same salon-quality hold as the Makeup By Mario Master Hold Brow Gel for much less.
 
+### 6. Anastasia Beverly Hills Brow Freeze vs. e.l.f. Brow Lift
+Anastasia Beverly Hills Brow Freeze is a cult favorite brow wax known for its strong hold. The e.l.f. Brow Lift provides similar hold for much cheaper.
+
+Brow Freeze is known for sculpting and locking brows in place all day. The e.l.f. Brow Lift offers comparable lift and hold with ingredients like cetyl alcohol. Reviewers say it provides the same salon-quality hold as the ABH wax for over $15 less.
+
+The e.l.f. Brow Lift provides the same extreme hold and sculpting as Anastasia Beverly Hills Brow Freeze for a fraction of the price.
+
+### 7. Urban Decay Naked 3 Palette vs Covergirl TruNaked Palette
+The Naked 3 Palette by Urban Decay features universally flattering rose gold eyeshadow shades. The affordable Covergirl TruNaked palette offers similar rosy neutrals.
+
+The Naked 3 palette provides a range of pinky nude shades in various finishes. The budget-friendly Covergirl TruNaked palette features comparable rosy neutrals in shimmer, matte and satin. Reviewers say the Covergirl eyeshadows offer nearly identical pigmentation and blendability to the Urban Decay shades for only $9.99.
+
+The Covergirl TruNaked palette provides remarkably similar rosy, neutral eyeshadows compared to Urban Decay's Naked 3 for a fraction of the cost.
+
+### 8. NARS Legendary Orgasm Blush vs Milani Baked Blush
+NARS Legendary Orgasm blush is known for its brightening peachy-pink glow. The Milani Baked Blush in Luminoso offers an identical look for less.
+
+The Orgasm blush provides a universally flattering warm, radiant flush. Milani's Luminoso Baked Blush delivers that same lit-from-within glow in a creamy powder formula. Reviewers rave the Milani blush provides the same identical shade and sheen as the iconic NARS blush for more than $20 less.
+
+Milani's Baked Blush in Luminoso is virtually indistinguishable from NARS' iconic Orgasm blush for a fraction of the price.
+
+### 9. Thrive Causemetics Brilliant Eye Brightener vs. e.l.f. No Budge Shadow Stick
+Thrive Causemetics Brilliant Eye Brightener provides easy, crease-proof eye color. The e.l.f. No Budge Shadow Stick offers the same convenience in more shades for less.
+
+The Brilliant Eye Brightener gives mess-free, vibrant eye color in one step. The e.l.f. No Budge Shadow Stick provides the same creamy, budge-proof eye color but is available in a range of shades. Reviewers say the budget-friendly e.l.f. stick offers identical vibrant color and ease of use for only $5.
+
+The e.l.f. No Budge Shadow Stick provides the same quick, crease-free eye color as the Thrive Causemetics Brilliant Eye Brightener for a fraction of the cost.
+
+
+
 
 ### Final thoughts
 
