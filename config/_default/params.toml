@@ -35,13 +35,13 @@ disableImageOptimization = true
   showScrollToTop = true
 
 [homepage]
-  layout = "hero" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/tn.png" # used in: hero, and card
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "images/ocean.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -82,7 +82,7 @@ disableImageOptimization = true
   showTableOfContents = false
   showCards = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
